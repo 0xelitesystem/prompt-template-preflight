@@ -50,4 +50,4 @@ MIT.
 
 - [prompt-cost-calculator](https://github.com/0xelitesystem/prompt-cost-calculator)
 - [prompt-token-meter](https://github.com/0xelitesystem/prompt-token-meter)
-- [claude-md-generator](https://github.com/0xelitesystem/claude-md-generator)
+- [agent-instructions-file-builder](https://github.com/0xelitesystem/agent-instructions-file-builder)
