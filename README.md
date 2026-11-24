@@ -1,8 +1,8 @@
-# Prompt Template Linter
+# Prompt Template Preflight
 
 Paste a prompt template and get a local report: unfilled variables, an approximate token and length estimate, flagged prompt-injection patterns, and simple quality checks. No server, no tracking, no third-party scripts.
 
-**Live demo:** https://0xelitesystem.github.io/prompt-template-linter/
+**Live demo:** https://0xelitesystem.github.io/prompt-template-preflight/
 
 ## Use
 
@@ -28,8 +28,8 @@ Everything runs in your browser. The template you paste never leaves your machin
 ## Run locally
 
 ```bash
-git clone https://github.com/0xelitesystem/prompt-template-linter
-cd prompt-template-linter
+git clone https://github.com/0xelitesystem/prompt-template-preflight
+cd prompt-template-preflight
 # Open index.html in your browser, or:
 python -m http.server 8000
 ```
@@ -48,6 +48,6 @@ MIT.
 
 ## Related
 
-- [prompt-cost-calculator](https://github.com/0xelitesystem/prompt-cost-calculator)
-- [prompt-token-meter](https://github.com/0xelitesystem/prompt-token-meter)
+- [prompt-cost-across-models](https://github.com/0xelitesystem/prompt-cost-across-models)
+- [context-window-gauges](https://github.com/0xelitesystem/context-window-gauges)
 - [agent-instructions-file-builder](https://github.com/0xelitesystem/agent-instructions-file-builder)
